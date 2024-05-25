@@ -1,2 +1,2 @@
-# netflix
+# Netflix
 Netflix frontend 
